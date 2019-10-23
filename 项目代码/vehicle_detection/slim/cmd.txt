@@ -1,0 +1,2 @@
+python classify_image.py --model_file=freezen_graph.pb --label_file=freezen_graph.label --image_file=test.jpg 
+ 
